@@ -8,6 +8,7 @@ public class E_1061 {
 
         int diaInicio, diaHoras, minutosInicio, segundosInicio, diaFinal, horasFinal, minutosFinal, segundosFinal;
 
+        sc.next();
         diaInicio = sc.nextInt();
         diaHoras = sc.nextInt();
         sc.next();
