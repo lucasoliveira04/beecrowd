@@ -1,6 +1,9 @@
-package org.beecrowd
+package org.beecrowd;
 
-public class Main {
+import java.io.IOException;
+import java.util.Scanner;
+
+public class E_1157 {
  
     public static void main(String[] args) throws IOException {
  
